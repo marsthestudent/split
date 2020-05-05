@@ -1,0 +1,17 @@
+# Split
+
+Split is a clone of Splitwise, a bill splitting application. Split was made with Ruby on Rails and React.js.
+Try it here.
+
+## Screenshots
+
+
+## Technical Details
+
+Talk about creating the billsplit data structure to deal with settle up edge cases.
+
+## Features
+* User authentication & account creation
+* Friends + Friends Search
+* Bill creation
+* Bill payment
